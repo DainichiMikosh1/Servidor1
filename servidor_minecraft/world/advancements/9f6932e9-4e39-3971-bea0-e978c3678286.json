@@ -1,0 +1,973 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-12 10:57:12 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 10:57:14 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 10:57:14 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "silver_birch_forest": "2025-04-14 10:21:46 -0600",
+      "shrubland": "2025-04-14 10:18:19 -0600",
+      "fen": "2025-04-12 12:36:30 -0600",
+      "pine_taiga": "2025-04-15 08:20:22 -0600",
+      "bayou": "2025-04-15 09:21:43 -0600",
+      "autumnal_maple_forest": "2025-04-12 12:37:26 -0600",
+      "willow_forest": "2025-04-15 08:28:46 -0600",
+      "redstone_caves": "2025-04-16 13:59:31 -0600",
+      "grassy_beach": "2025-04-12 12:54:08 -0600",
+      "blackwood_taiga": "2025-04-12 12:55:03 -0600",
+      "maple_forest": "2025-04-12 10:57:14 -0600",
+      "magnolia_highlands": "2025-04-15 08:59:15 -0600",
+      "boreal_forest": "2025-04-15 10:24:00 -0600",
+      "glistering_meadow": "2025-04-16 13:40:00 -0600",
+      "towering_cliffs": "2025-04-15 08:29:56 -0600",
+      "infernal_holt": "2025-04-14 09:30:38 -0600",
+      "bamboo_forest": "2025-04-15 08:59:38 -0600",
+      "temperate_grove": "2025-04-15 08:25:59 -0600",
+      "gravel_beach": "2025-04-14 10:14:55 -0600",
+      "redwoods": "2025-04-15 08:59:30 -0600",
+      "lupine_plains": "2025-04-15 08:29:40 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "silver_birch_forest": "2025-04-14 10:21:46 -0600",
+      "shrubland": "2025-04-14 10:18:19 -0600",
+      "fen": "2025-04-12 12:36:30 -0600",
+      "pine_taiga": "2025-04-15 08:20:22 -0600",
+      "bayou": "2025-04-15 09:21:43 -0600",
+      "autumnal_maple_forest": "2025-04-12 12:37:26 -0600",
+      "willow_forest": "2025-04-15 08:28:46 -0600",
+      "grassy_beach": "2025-04-12 12:54:08 -0600",
+      "blackwood_taiga": "2025-04-12 12:55:03 -0600",
+      "maple_forest": "2025-04-12 10:57:14 -0600",
+      "magnolia_highlands": "2025-04-15 08:59:15 -0600",
+      "boreal_forest": "2025-04-15 10:24:00 -0600",
+      "towering_cliffs": "2025-04-15 08:29:56 -0600",
+      "bamboo_forest": "2025-04-15 08:59:38 -0600",
+      "temperate_grove": "2025-04-15 08:25:59 -0600",
+      "gravel_beach": "2025-04-14 10:14:55 -0600",
+      "redwoods": "2025-04-15 08:59:30 -0600",
+      "lupine_plains": "2025-04-15 08:29:40 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 10:57:14 -0600"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-12 10:57:14 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 10:57:14 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-04-12 10:57:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-04-12 11:04:07 -0600",
+      "minecraft:deep_ocean": "2025-04-12 12:45:30 -0600",
+      "minecraft:birch_forest": "2025-04-15 10:25:43 -0600",
+      "minecraft:windswept_hills": "2025-04-12 11:30:37 -0600",
+      "minecraft:wooded_badlands": "2025-04-15 13:01:59 -0600",
+      "minecraft:bamboo_jungle": "2025-04-16 14:40:16 -0600",
+      "minecraft:beach": "2025-04-15 10:13:14 -0600",
+      "minecraft:dark_forest": "2025-04-12 12:56:43 -0600",
+      "minecraft:stony_peaks": "2025-04-15 09:43:04 -0600",
+      "minecraft:sparse_jungle": "2025-04-16 14:31:57 -0600",
+      "minecraft:river": "2025-04-15 08:25:39 -0600",
+      "minecraft:stony_shore": "2025-04-14 10:32:53 -0600",
+      "minecraft:dripstone_caves": "2025-04-12 12:24:04 -0600",
+      "minecraft:swamp": "2025-04-12 11:04:36 -0600",
+      "minecraft:grove": "2025-04-15 10:26:21 -0600",
+      "minecraft:cold_ocean": "2025-04-12 12:38:55 -0600",
+      "minecraft:forest": "2025-04-12 11:00:38 -0600",
+      "minecraft:deep_cold_ocean": "2025-04-12 12:42:18 -0600",
+      "minecraft:windswept_forest": "2025-04-12 11:05:45 -0600",
+      "minecraft:ocean": "2025-04-12 12:53:31 -0600",
+      "minecraft:jungle": "2025-04-16 14:40:49 -0600",
+      "minecraft:deep_lukewarm_ocean": "2025-04-16 14:02:03 -0600",
+      "minecraft:old_growth_birch_forest": "2025-04-12 11:04:28 -0600",
+      "minecraft:deep_dark": "2025-04-15 09:38:27 -0600",
+      "minecraft:windswept_gravelly_hills": "2025-04-12 11:34:57 -0600",
+      "minecraft:plains": "2025-04-12 11:35:08 -0600"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-12 11:01:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-12 11:05:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-12 11:06:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-12 11:11:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-12 11:13:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-12 11:16:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-04-14 09:32:52 -0600",
+      "minecraft:pillager": "2025-04-14 10:25:03 -0600",
+      "minecraft:skeleton": "2025-04-12 11:16:37 -0600",
+      "minecraft:zoglin": "2025-04-15 11:21:37 -0600",
+      "minecraft:ravager": "2025-04-15 11:23:51 -0600",
+      "minecraft:hoglin": "2025-04-16 13:47:50 -0600",
+      "minecraft:guardian": "2025-04-15 11:25:18 -0600",
+      "minecraft:vindicator": "2025-04-14 10:30:08 -0600",
+      "minecraft:magma_cube": "2025-04-16 13:44:42 -0600",
+      "minecraft:spider": "2025-04-12 12:22:13 -0600",
+      "minecraft:creeper": "2025-04-14 15:43:08 -0600",
+      "minecraft:evoker": "2025-04-15 11:20:37 -0600",
+      "minecraft:slime": "2025-04-16 13:44:32 -0600",
+      "minecraft:zombified_piglin": "2025-04-16 13:37:48 -0600",
+      "minecraft:witch": "2025-04-14 14:21:29 -0600",
+      "minecraft:wither_skeleton": "2025-04-12 14:01:14 -0600",
+      "minecraft:husk": "2025-04-15 10:34:22 -0600",
+      "minecraft:cave_spider": "2025-04-12 14:01:17 -0600",
+      "minecraft:piglin": "2025-04-16 13:47:04 -0600",
+      "minecraft:silverfish": "2025-04-14 10:06:42 -0600",
+      "minecraft:enderman": "2025-04-15 10:12:14 -0600",
+      "minecraft:stray": "2025-04-15 08:47:14 -0600",
+      "minecraft:vex": "2025-04-15 11:19:36 -0600",
+      "minecraft:zombie": "2025-04-12 11:19:48 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-12 11:16:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-12 12:23:03 -0600",
+      "sweet_berries": "2025-04-15 11:18:26 -0600",
+      "cooked_beef": "2025-04-12 12:33:25 -0600",
+      "baked_potato": "2025-04-12 12:08:48 -0600",
+      "porkchop": "2025-04-15 08:51:16 -0600",
+      "apple": "2025-04-12 11:42:41 -0600",
+      "bread": "2025-04-12 11:17:02 -0600",
+      "golden_apple": "2025-04-16 11:09:10 -0600",
+      "carrot": "2025-04-12 12:10:03 -0600"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-12 11:17:02 -0600"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-04-12 11:28:32 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-04-12 11:35:14 -0600"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-04-12 11:36:20 -0600",
+      "entered_stables": "2025-04-14 10:26:02 -0600",
+      "entered_druid_circle": "2025-04-12 12:38:14 -0600",
+      "entered_tall_witch_hut": "2025-04-12 11:59:41 -0600",
+      "entered_tree_house": "2025-04-16 14:34:05 -0600",
+      "entered_ruined_building": "2025-04-12 12:35:29 -0600"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-04-12 11:36:20 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-04-12 11:36:33 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "tavern_dark_oak": "2025-04-16 14:42:03 -0600",
+      "illager_manor": "2025-04-16 14:43:43 -0600",
+      "swamp_hut": "2025-04-14 14:20:48 -0600",
+      "illager_camp": "2025-04-12 11:41:41 -0600"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-12 11:46:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-12 11:46:31 -0600"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-04-12 11:46:31 -0600"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-04-12 11:57:54 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-12 12:01:38 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-04-12 12:12:39 -0600"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-04-12 12:12:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 12:12:39 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-04-12 12:12:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-12 12:22:23 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 13:16:30 -0600",
+      "in_better_spider_dungeon": "2025-04-15 11:36:43 -0600"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 13:16:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-12 13:23:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-04-12 13:25:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-12 13:42:13 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-12 14:01:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-12 14:47:42 -0600"
+    },
+    "done": true
+  },
+  "nordic_structures:tyfingroathswearadvancement": {
+    "criteria": {
+      "tyfingroathswearadvancement_0": "2025-04-12 14:47:45 -0600"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-12 14:49:19 -0600"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-14 09:28:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-14 09:28:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-14 09:28:50 -0600"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-14 09:28:51 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-04-14 09:28:51 -0600"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-14 09:28:51 -0600",
+      "incendium:toxic_heap": "2025-04-14 09:48:27 -0600"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-14 09:28:51 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2025-04-14 09:30:38 -0600",
+      "glistering_meadow": "2025-04-16 13:40:00 -0600"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-14 09:33:41 -0600"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-14 09:48:27 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-04-14 09:55:38 -0600"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 09:59:35 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-14 10:04:27 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-04-14 10:21:54 -0600"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-14 10:22:42 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_taiga": "2025-04-16 14:29:44 -0600",
+      "in_outpost_oak": "2025-04-14 10:24:41 -0600"
+    },
+    "done": false
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-04-14 10:31:59 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-14 10:31:59 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-04-14 10:31:59 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-04-14 14:10:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-04-14 14:31:16 -0600"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-14 14:31:16 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-04-14 14:44:13 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-14 14:47:34 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-04-14 14:47:45 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-04-14 15:18:59 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-04-14 15:19:59 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-04-14 15:22:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2025-04-14 15:50:34 -0600",
+      "kill_naga": "2025-04-14 15:22:09 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-14 15:47:26 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-14 15:47:26 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-04-14 15:50:34 -0600",
+      "trophy_pedestal": "2025-04-16 09:55:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-04-16 09:29:06 -0600",
+      "kill_lich": "2025-04-14 15:50:34 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-04-14 15:50:34 -0600",
+      "trophy": "2025-04-16 10:45:10 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-15 08:17:48 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mushroom": "2025-04-15 08:52:03 -0600"
+    },
+    "done": false
+  },
+  "mca:excellent_gift": {
+    "criteria": {
+      "baby": "2025-04-15 09:01:48 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-04-15 09:26:40 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-15 10:12:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-15 11:21:31 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-15 11:36:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-15 11:40:29 -0600"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-15 11:46:15 -0600"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-04-15 11:48:36 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-04-15 12:42:47 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-04-15 13:03:36 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-04-15 13:14:29 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2025-04-15 13:21:48 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2025-04-15 14:19:59 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-16 08:45:05 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-04-16 09:42:16 -0600",
+      "stroganoff": "2025-04-16 09:29:06 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-04-16 09:29:06 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-16 09:40:21 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-04-16 09:42:16 -0600",
+      "snow_queen": "2025-04-16 11:03:05 -0600",
+      "ur_ghast": "2025-04-16 10:32:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-04-16 09:59:29 -0600",
+      "previous_progression": "2025-04-16 09:55:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-04-16 09:59:29 -0600",
+      "was_in_fight": "2025-04-16 10:32:09 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-04-16 10:27:08 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-04-16 10:45:10 -0600",
+      "queen": "2025-04-16 11:03:05 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-16 11:03:05 -0600",
+      "lamp": "2025-04-16 12:22:02 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-04-16 11:20:44 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-16 14:53:18 -0600"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-16 14:43:32 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-04-16 13:59:31 -0600"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-04-16 13:49:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-16 13:52:47 -0600",
+      "minecraft:basalt_deltas": "2025-04-16 13:43:01 -0600"
+    },
+    "done": false
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-04-16 13:57:32 -0600"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-04-16 14:43:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 13:04:51 -0600"
+    },
+    "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-16 14:53:26 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-04-16 13:47:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-16 13:00:15 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-04-16 14:12:18 -0600"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2025-04-16 14:43:43 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-04-16 12:22:02 -0600",
+      "plateau": "2025-04-16 12:30:20 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-04-16 14:21:10 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-04-16 13:51:13 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
