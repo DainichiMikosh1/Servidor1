@@ -14687,3 +14687,26 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 02:04:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Sweet Dreams]
 [17Apr2025 02:06:25.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [17Apr2025 02:06:25.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:11:25.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:11:25.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:11:31.259] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:infested_temple took 14 ms
+[17Apr2025 02:11:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[17Apr2025 02:11:43.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to -911.500000, 84.000000, -959.500000]
+[17Apr2025 02:11:43.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Super Creeps]
+[17Apr2025 02:11:54.147] [Worker-Main-75/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Apr2025 02:12:03.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 02:12:08.069] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[17Apr2025 02:12:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[17Apr2025 02:12:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[17Apr2025 02:14:12.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38185, l='ServerLevel[XD]', x=-954.45, y=60.16, z=-993.33] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:14:14.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38184, l='ServerLevel[XD]', x=-954.48, y=60.06, z=-993.21] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:14:33.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 02:15:25.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 02:15:54.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39405, l='ServerLevel[XD]', x=-957.20, y=68.11, z=-988.51] died: Dinnerbone was shot by Dinnerbone
+[17Apr2025 02:15:58.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39091, l='ServerLevel[XD]', x=-955.13, y=72.01, z=-990.88] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:16:02.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39855, l='ServerLevel[XD]', x=-953.18, y=68.06, z=-989.40] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:16:04.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38205, l='ServerLevel[XD]', x=-958.03, y=68.10, z=-994.70] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:16:09.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38961, l='ServerLevel[XD]', x=-954.06, y=68.06, z=-994.68] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:16:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Monster Hunter]
+[17Apr2025 02:16:25.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:16:25.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD

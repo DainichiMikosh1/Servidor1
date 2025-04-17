@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-17 02:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-17 02:01:12 +0000"
@@ -64,6 +70,7 @@
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "boreal_forest": "2025-04-17 02:11:56 +0000",
       "cold_boreal_taiga": "2025-04-17 01:54:02 +0000"
     },
     "done": false
@@ -133,6 +140,7 @@
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "boreal_forest": "2025-04-17 02:11:56 +0000",
       "cold_boreal_taiga": "2025-04-17 01:54:02 +0000"
     },
     "done": false
@@ -167,6 +175,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-17 02:16:13 +0000"
+    },
+    "done": false
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-17 01:26:48 +0000"
@@ -188,6 +202,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-17 02:16:13 +0000"
     },
     "done": true
   },
