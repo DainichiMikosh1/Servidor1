@@ -14710,3 +14710,41 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 02:16:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Monster Hunter]
 [17Apr2025 02:16:25.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [17Apr2025 02:16:25.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:18:24.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has reached the goal [Hunted]
+[17Apr2025 02:18:52.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41176, l='ServerLevel[XD]', x=-956.07, y=80.01, z=-989.81] died: Dinnerbone was shot by Dinnerbone
+[17Apr2025 02:18:59.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41177, l='ServerLevel[XD]', x=-957.56, y=80.01, z=-991.51] died: Dinnerbone was killed trying to hurt Armando
+[17Apr2025 02:19:03.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/37124, l='ServerLevel[XD]', x=-953.30, y=80.01, z=-987.50] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:19:07.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43998, l='ServerLevel[XD]', x=-956.67, y=76.00, z=-986.64] died: Dinnerbone was slain by Armando
+[17Apr2025 02:19:09.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/40519, l='ServerLevel[XD]', x=-953.49, y=76.00, z=-993.00] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:19:12.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41178, l='ServerLevel[XD]', x=-950.45, y=80.01, z=-990.95] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:19:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
+[17Apr2025 02:19:42.177] [Server thread/DEBUG] [twilightforest/]: Player SANGRES20 (9f6932e9-4e39-3971-bea0-e978c3678286) respawned and received items held in storage
+[17Apr2025 02:19:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[17Apr2025 02:20:58.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42747, l='ServerLevel[XD]', x=-927.71, y=88.01, z=-987.95] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:20:59.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45996, l='ServerLevel[XD]', x=-927.79, y=84.16, z=-988.54] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:21:02.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46950, l='ServerLevel[XD]', x=-932.96, y=84.16, z=-989.03] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:21:09.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45998, l='ServerLevel[XD]', x=-929.55, y=88.01, z=-992.43] died: Dinnerbone was shot by Dinnerbone
+[17Apr2025 02:21:12.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45997, l='ServerLevel[XD]', x=-931.19, y=84.06, z=-990.62] died: Dinnerbone was slain by Armando
+[17Apr2025 02:21:20.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45313, l='ServerLevel[XD]', x=-932.32, y=88.01, z=-991.32] died: Dinnerbone was killed trying to hurt Armando
+[17Apr2025 02:21:25.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:21:25.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:22:12.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48361, l='ServerLevel[XD]', x=-952.94, y=88.01, z=-1006.76] died: Dinnerbone was slain by Armando
+[17Apr2025 02:22:17.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44908, l='ServerLevel[XD]', x=-951.37, y=88.01, z=-999.29] died: Dinnerbone was shot by Dinnerbone
+[17Apr2025 02:22:18.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43834, l='ServerLevel[XD]', x=-957.49, y=88.01, z=-1001.71] died: Dinnerbone was shot by Dinnerbone
+[17Apr2025 02:22:20.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44909, l='ServerLevel[XD]', x=-953.95, y=88.01, z=-1001.12] died: Dinnerbone was slain by Armando
+[17Apr2025 02:22:22.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43833, l='ServerLevel[XD]', x=-953.68, y=88.01, z=-1001.81] died: Dinnerbone was slain by Armando
+[17Apr2025 02:22:31.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48360, l='ServerLevel[XD]', x=-959.09, y=88.01, z=-1005.17] died: Dinnerbone was slain by Armando
+[17Apr2025 02:23:40.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50062, l='ServerLevel[XD]', x=-954.59, y=92.74, z=-992.08] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:23:43.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49714, l='ServerLevel[XD]', x=-954.33, y=94.11, z=-986.30] died: Dinnerbone was killed trying to hurt Armando
+[17Apr2025 02:23:46.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48219, l='ServerLevel[XD]', x=-956.94, y=92.11, z=-986.85] died: Dinnerbone was slain by Armando
+[17Apr2025 02:23:49.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49715, l='ServerLevel[XD]', x=-955.42, y=96.01, z=-990.37] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:23:52.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46581, l='ServerLevel[XD]', x=-953.45, y=93.00, z=-988.30] died: Dinnerbone was slain by Armando
+[17Apr2025 02:23:52.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49225, l='ServerLevel[XD]', x=-955.97, y=96.01, z=-992.03] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:24:23.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46716, l='ServerLevel[XD]', x=-928.57, y=92.00, z=-981.42] died: Dinnerbone was slain by SANGRES20
+[17Apr2025 02:24:34.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51610, l='ServerLevel[XD]', x=-927.29, y=92.00, z=-982.43] died: Dinnerbone was slain by Armando
+[17Apr2025 02:24:47.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47049, l='ServerLevel[XD]', x=-930.69, y=92.10, z=-976.19] died: Dinnerbone was slain by Armando
+[17Apr2025 02:26:03.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54153, l='ServerLevel[XD]', x=-953.46, y=100.06, z=-989.69] died: Dinnerbone was slain by Armando
+[17Apr2025 02:26:05.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51350, l='ServerLevel[XD]', x=-955.70, y=100.17, z=-990.61] died: Dinnerbone was slain by Armando
+[17Apr2025 02:26:09.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48195, l='ServerLevel[XD]', x=-956.11, y=100.06, z=-992.08] died: Dinnerbone was slain by Armando
+[17Apr2025 02:26:25.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:26:25.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
