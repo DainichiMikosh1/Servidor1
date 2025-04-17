@@ -935,3 +935,28 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 01:23:04.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordAML0 lost connection: Disconnected
 [17Apr2025 01:23:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 left the game
 [17Apr2025 01:25:19.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Meature
+[17Apr2025 01:26:47.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armando[/100.109.138.25:53829] logged in with entity id 14170 at (-253.5, 78.0, -1273.5)
+[17Apr2025 01:26:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando joined the game
+[17Apr2025 01:26:47.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Ice and Fire]
+[17Apr2025 01:26:48.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Minecraft Comes Alive]
+[17Apr2025 01:27:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 01:27:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[17Apr2025 01:27:52.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Armando a server operator
+[17Apr2025 01:28:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:28:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[17Apr2025 01:28:19.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 01:28:27.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Hot Stuff]
+[17Apr2025 01:28:29.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Draconic Evolution]
+[17Apr2025 01:28:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [First Age]
+[17Apr2025 01:28:47.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Creative Mode]
+[17Apr2025 01:30:02.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Diamonds!]
+[17Apr2025 01:30:03.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Acquire Hardware]
+[17Apr2025 01:30:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Into Fire]
+[17Apr2025 01:30:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
+[17Apr2025 01:30:16.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [An Ear-Shattering Roar]
+[17Apr2025 01:30:17.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Dragon Commander]
+[17Apr2025 01:30:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Rocket Science]
+[17Apr2025 01:30:54.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:31:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Limit Breaker]
+[17Apr2025 01:33:20.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Creative Mode]
+[17Apr2025 01:36:08.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
