@@ -79,22 +79,30 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-04-17 16:09:14 +0000",
+      "fen": "2025-04-17 14:58:44 +0000",
+      "autumnal_maple_forest": "2025-04-17 14:59:08 +0000",
       "prismachasm": "2025-04-17 14:15:41 +0000",
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
-      "cold_boreal_taiga": "2025-04-17 01:54:02 +0000"
+      "cold_boreal_taiga": "2025-04-17 01:54:02 +0000",
+      "hyacinth_deeps": "2025-04-17 15:30:13 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-04-17 16:09:14 +0000",
+      "fen": "2025-04-17 14:58:44 +0000",
+      "autumnal_maple_forest": "2025-04-17 14:59:08 +0000",
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
-      "cold_boreal_taiga": "2025-04-17 01:54:02 +0000"
+      "cold_boreal_taiga": "2025-04-17 01:54:02 +0000",
+      "hyacinth_deeps": "2025-04-17 15:30:13 +0000"
     },
     "done": false
   },
@@ -127,16 +135,21 @@
       "minecraft:taiga": "2025-04-17 01:53:57 +0000",
       "minecraft:birch_forest": "2025-04-17 13:59:48 +0000",
       "minecraft:windswept_hills": "2025-04-17 01:51:39 +0000",
+      "minecraft:beach": "2025-04-17 15:42:53 +0000",
       "minecraft:dark_forest": "2025-04-17 01:37:09 +0000",
       "minecraft:river": "2025-04-17 13:59:44 +0000",
       "minecraft:snowy_plains": "2025-04-17 01:54:12 +0000",
       "minecraft:snowy_taiga": "2025-04-17 01:53:36 +0000",
       "minecraft:dripstone_caves": "2025-04-17 14:11:20 +0000",
       "minecraft:swamp": "2025-04-17 01:52:57 +0000",
+      "minecraft:cold_ocean": "2025-04-17 15:01:48 +0000",
       "minecraft:forest": "2025-04-17 01:28:01 +0000",
       "minecraft:lush_caves": "2025-04-17 01:39:28 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-17 15:30:32 +0000",
       "minecraft:ice_spikes": "2025-04-17 01:54:31 +0000",
+      "minecraft:frozen_ocean": "2025-04-17 15:25:36 +0000",
       "minecraft:windswept_forest": "2025-04-17 13:58:38 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-17 15:25:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:42:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-17 01:51:38 +0000",
       "minecraft:plains": "2025-04-17 01:28:10 +0000"
@@ -284,6 +297,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_elders_temple": "2025-04-17 15:33:13 +0000",
+      "entered_druid_circle": "2025-04-17 14:59:20 +0000",
       "entered_dungeon_variant": "2025-04-17 14:17:29 +0000",
       "entered_ruined_building": "2025-04-17 01:58:23 +0000"
     },
@@ -323,11 +338,16 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 13:38:06 +0000",
       "minecraft:skeleton": "2025-04-17 02:18:59 +0000",
+      "minecraft:ravager": "2025-04-17 15:03:42 +0000",
+      "minecraft:guardian": "2025-04-17 15:33:15 +0000",
+      "minecraft:vindicator": "2025-04-17 15:00:08 +0000",
       "minecraft:spider": "2025-04-17 02:16:13 +0000",
       "minecraft:creeper": "2025-04-17 02:29:32 +0000",
+      "minecraft:evoker": "2025-04-17 15:31:30 +0000",
       "minecraft:wither_skeleton": "2025-04-17 02:17:38 +0000",
       "minecraft:cave_spider": "2025-04-17 02:16:39 +0000",
       "minecraft:enderman": "2025-04-17 14:14:50 +0000",
+      "minecraft:silverfish": "2025-04-17 16:29:05 +0000",
       "minecraft:zombie": "2025-04-17 02:31:46 +0000"
     },
     "done": false
@@ -356,83 +376,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
+      "shot_arrow": "2025-04-17 13:13:50 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 14:22:29 +0000"
-    },
-    "done": false
+    "done": true
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-04-17 13:28:58 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 13:38:09 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:spelunker": {
     "criteria": {
@@ -446,15 +406,148 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "shot_arrow": "2025-04-17 13:13:50 +0000"
+      "obsidian": "2025-04-17 14:43:35 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "aether:enter_aether": {
     "criteria": {
-      "voluntary_exile": "2025-04-17 13:38:09 +0000"
+      "enter_aether": "2025-04-17 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-17 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-04-17 14:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-17 15:04:14 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-04-17 15:25:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-17 15:30:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_elders_temple": "2025-04-17 15:33:13 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:sunken_deeps": {
+    "criteria": {
+      "entered_elders_temple": "2025-04-17 15:33:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-17 15:46:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-17 16:32:52 +0000",
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 16:32:45 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-17 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-17 16:28:46 +0000"
     },
     "done": true
   },
