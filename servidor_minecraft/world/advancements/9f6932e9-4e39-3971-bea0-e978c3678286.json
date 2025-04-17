@@ -891,9 +891,27 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-04-17 00:56:49 +0000"
+    },
+    "done": true
+  },
   "ad_astra:rocket_science": {
     "criteria": {
       "has_nasa_workbench": "2025-04-17 00:53:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-17 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-17 00:58:40 +0000"
     },
     "done": true
   },

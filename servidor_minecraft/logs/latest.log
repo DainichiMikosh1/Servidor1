@@ -899,3 +899,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 00:47:58.829] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [17Apr2025 00:50:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 227.500000, 84.000000, -1034.500000]
 [17Apr2025 00:53:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Rocket Science]
+[17Apr2025 00:58:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [An Ear-Shattering Roar]
+[17Apr2025 00:58:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Dragon Commander]
