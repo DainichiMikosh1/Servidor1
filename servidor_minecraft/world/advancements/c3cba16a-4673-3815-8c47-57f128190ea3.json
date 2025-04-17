@@ -378,7 +378,8 @@
       "minecraft:silverfish": "2025-04-17 16:29:05 +0000",
       "minecraft:vex": "2025-04-17 18:53:38 +0000",
       "minecraft:zombie": "2025-04-17 02:31:46 +0000",
-      "quark:foxhound": "2025-04-17 19:47:01 +0000"
+      "quark:foxhound": "2025-04-17 19:47:01 +0000",
+      "minecraft:drowned": "2025-04-17 20:22:40 +0000"
     },
     "done": false
   },
@@ -716,94 +717,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-17 20:17:55 +0000",
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
-    },
-    "done": false
-  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-17 19:27:49 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "repurposed_structures:ancient_cities": {
     "criteria": {
-      "killed": "2025-04-17 19:51:18 +0000"
+      "in_ancient_city_nether": "2025-04-17 19:37:11 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:nether/get_wither_skull": {
+  "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
-      "wither_skull": "2025-04-17 19:45:39 +0000"
+      "requirement": "2025-04-17 19:39:25 +0000"
     },
     "done": true
   },
@@ -812,6 +740,18 @@
       "in_outpost_nether_brick": "2025-04-17 19:44:34 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-17 19:45:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-17 19:51:18 +0000"
+    },
+    "done": true
   },
   "cataclysm:find_burning_arena": {
     "criteria": {
@@ -825,23 +765,90 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-04-17 19:39:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-04-17 20:01:35 +0000"
     },
     "done": true
   },
-  "repurposed_structures:ancient_cities": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "in_ancient_city_nether": "2025-04-17 19:37:11 +0000"
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
     },
     "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-17 20:23:05 +0000",
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:22:36 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 20:22:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
