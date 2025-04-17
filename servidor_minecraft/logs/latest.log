@@ -901,3 +901,24 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 00:53:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Rocket Science]
 [17Apr2025 00:58:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [An Ear-Shattering Roar]
 [17Apr2025 00:58:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Dragon Commander]
+[17Apr2025 01:09:02.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordAML0[/100.109.138.25:53715] logged in with entity id 9281 at (-259.0812378037964, 79.9375, -1205.4147034857028)
+[17Apr2025 01:09:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 joined the game
+[17Apr2025 01:09:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported LordAML0 to SANGRES20]
+[17Apr2025 01:10:23.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SANGRES20> opped LordAMLO
+[17Apr2025 01:10:47.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[17Apr2025 01:11:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 01:11:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opped LordAMLO<--[HERE]
+[17Apr2025 01:11:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[17Apr2025 01:12:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 has made the advancement [Hot Stuff]
+[17Apr2025 01:13:25.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 lost connection: Disconnected
+[17Apr2025 01:13:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 left the game
+[17Apr2025 01:13:34.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordAML0 lost connection: Disconnected
+[17Apr2025 01:13:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 left the game
+[17Apr2025 01:14:23.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordAML0[/100.109.138.25:53733] logged in with entity id 10033 at (210.66682507034668, 84.0, -1014.6007188796519)
+[17Apr2025 01:14:24.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 joined the game
+[17Apr2025 01:14:45.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SANGRES20 no longer a server operator
+[17Apr2025 01:15:04.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lordamlo no longer a server operator
+[17Apr2025 01:15:10.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lordamlo a server operator
+[17Apr2025 01:15:43.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordAML0 lost connection: Disconnected
+[17Apr2025 01:15:43.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 left the game
+[17Apr2025 01:16:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SANGRES20 a server operator
