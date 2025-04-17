@@ -315,6 +315,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 13:38:06 +0000",
       "minecraft:skeleton": "2025-04-17 02:18:59 +0000",
       "minecraft:spider": "2025-04-17 02:16:13 +0000",
       "minecraft:creeper": "2025-04-17 02:29:32 +0000",
@@ -345,6 +346,24 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-04-17 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-04-17 13:28:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 13:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 13:38:09 +0000"
     },
     "done": true
   },

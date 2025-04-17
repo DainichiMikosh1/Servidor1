@@ -825,3 +825,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 13:06:03.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 13:06:03.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 13:09:33.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Nadejda'/342, l='ServerLevel[XD]', x=219.43, y=84.00, z=-1032.42] died: Nadejda burned to death
+[17Apr2025 13:13:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Take Aim]
+[17Apr2025 13:38:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Voluntary Exile]
+[17Apr2025 13:41:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 13:41:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
