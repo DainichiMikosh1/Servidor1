@@ -233,6 +233,7 @@
       "minecraft:creeper": "2025-04-14 21:43:08 +0000",
       "minecraft:evoker": "2025-04-15 17:20:37 +0000",
       "minecraft:slime": "2025-04-16 19:44:32 +0000",
+      "minecraft:phantom": "2025-04-17 18:50:38 +0000",
       "minecraft:zombified_piglin": "2025-04-16 19:37:48 +0000",
       "minecraft:witch": "2025-04-14 20:21:29 +0000",
       "minecraft:wither_skeleton": "2025-04-12 20:01:14 +0000",
@@ -243,7 +244,8 @@
       "minecraft:enderman": "2025-04-15 16:12:14 +0000",
       "minecraft:stray": "2025-04-15 14:47:14 +0000",
       "minecraft:vex": "2025-04-15 17:19:36 +0000",
-      "minecraft:zombie": "2025-04-12 17:19:48 +0000"
+      "minecraft:zombie": "2025-04-12 17:19:48 +0000",
+      "quark:foxhound": "2025-04-17 18:46:37 +0000"
     },
     "done": false
   },
