@@ -3397,3 +3397,25 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 01:40:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [17Apr2025 01:41:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
 [17Apr2025 01:41:55.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:50:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 01:50:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:51:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Creative Mode]
+[17Apr2025 01:52:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Dragonslayer]
+[17Apr2025 01:52:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
+[17Apr2025 01:53:31.861] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_taiga took 10946 ms
+[17Apr2025 01:53:31.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10943ms or 218 ticks behind
+[17Apr2025 01:53:31.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 moved too quickly! 6.95916334627708,1.7531999805212024,7.195681101284208
+[17Apr2025 01:53:31.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -1.6567098397699738,1.2034772903632245,9.807505789778816
+[17Apr2025 01:53:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 3461.500000, 77.000000, 3260.500000]
+[17Apr2025 01:53:46.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Mother of Dragons]
+[17Apr2025 01:53:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[17Apr2025 01:54:01.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -7.4962069536431954,3.6312631755390328,6.7938718352666
+[17Apr2025 01:54:09.112] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_plains took 15 ms
+[17Apr2025 01:54:12.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 3247.500000, 116.000000, 3430.500000]
+[17Apr2025 01:54:24.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -9.370550662351889,-2.8237794428788305,2.789928598034294
+[17Apr2025 01:54:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:54:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 01:54:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 01:54:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 01:56:09.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of SANGRES20) moved wrongly! 0.2633002078514437
+[17Apr2025 01:56:09.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of SANGRES20) moved wrongly! 0.7179396533102818
