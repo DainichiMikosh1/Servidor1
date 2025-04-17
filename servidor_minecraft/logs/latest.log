@@ -3521,3 +3521,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 02:42:58.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Armando) moved too quickly! -11.493466114486864,0.01899174135853343,-0.8703175172499868
 [17Apr2025 02:42:58.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Armando) moved too quickly! -10.582737419923667,0.02575740932523729,-0.8041437564186253
 [17Apr2025 02:44:47.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[17Apr2025 02:58:06.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 lost connection: Disconnected
+[17Apr2025 02:58:06.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 left the game
+[17Apr2025 02:58:07.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando lost connection: Disconnected
+[17Apr2025 02:58:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando left the game
