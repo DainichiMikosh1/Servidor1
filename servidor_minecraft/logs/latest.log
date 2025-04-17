@@ -922,3 +922,16 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 01:15:43.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordAML0 lost connection: Disconnected
 [17Apr2025 01:15:43.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 left the game
 [17Apr2025 01:16:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SANGRES20 a server operator
+[17Apr2025 01:16:36.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SANGRES20[/100.87.173.85:59374] logged in with entity id 10390 at (225.29897117944486, 84.0, -1032.2259587935168)
+[17Apr2025 01:16:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 joined the game
+[17Apr2025 01:16:40.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@798e19b5[id=<null>,name=LordAML0,properties={},legacy=false] (/100.109.138.25:53738) lost connection: Disconnected
+[17Apr2025 01:17:09.493] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b07cff2[id=<null>,name=LordAML0,properties={},legacy=false] (/100.109.138.25:53740) lost connection: Disconnected
+[17Apr2025 01:17:41.737] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@381ccef4[id=<null>,name=LordAML0,properties={},legacy=false] (/100.109.138.25:53741) lost connection: Disconnected
+[17Apr2025 01:18:20.290] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e10c102[id=<null>,name=LordAML0,properties={},legacy=false] (/100.109.138.25:53748) lost connection: Disconnected
+[17Apr2025 01:20:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
+[17Apr2025 01:21:45.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordAML0[/100.109.138.25:53785] logged in with entity id 13171 at (222.48610924679173, 84.0, -1032.810785865644)
+[17Apr2025 01:21:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 joined the game
+[17Apr2025 01:22:12.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Sprinter
+[17Apr2025 01:23:04.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordAML0 lost connection: Disconnected
+[17Apr2025 01:23:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordAML0 left the game
+[17Apr2025 01:25:19.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Meature
