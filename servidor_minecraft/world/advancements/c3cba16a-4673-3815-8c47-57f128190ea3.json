@@ -80,19 +80,25 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-04-17 16:09:14 +0000",
+      "shrubland": "2025-04-17 20:16:39 +0000",
       "redstone_abyss": "2025-04-17 19:24:40 +0000",
       "fen": "2025-04-17 14:58:44 +0000",
       "autumnal_maple_forest": "2025-04-17 14:59:08 +0000",
       "prismachasm": "2025-04-17 14:15:41 +0000",
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
+      "grassy_beach": "2025-04-17 20:17:27 +0000",
       "mycotoxic_undergrowth": "2025-04-17 18:34:16 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
       "glistering_meadow": "2025-04-17 18:31:43 +0000",
       "blackstone_basin": "2025-04-17 18:35:42 +0000",
+      "chalk_cliffs": "2025-04-17 20:17:24 +0000",
       "infernal_holt": "2025-04-17 18:30:34 +0000",
       "cold_boreal_taiga": "2025-04-17 01:54:02 +0000",
+      "grassland": "2025-04-17 20:17:09 +0000",
+      "prairie": "2025-04-17 20:16:59 +0000",
+      "gravel_beach": "2025-04-17 20:14:14 +0000",
       "hyacinth_deeps": "2025-04-17 15:30:13 +0000"
     },
     "done": false
@@ -100,13 +106,19 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-04-17 16:09:14 +0000",
+      "shrubland": "2025-04-17 20:16:39 +0000",
       "fen": "2025-04-17 14:58:44 +0000",
       "autumnal_maple_forest": "2025-04-17 14:59:08 +0000",
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
+      "grassy_beach": "2025-04-17 20:17:27 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
+      "chalk_cliffs": "2025-04-17 20:17:24 +0000",
       "cold_boreal_taiga": "2025-04-17 01:54:02 +0000",
+      "grassland": "2025-04-17 20:17:09 +0000",
+      "prairie": "2025-04-17 20:16:59 +0000",
+      "gravel_beach": "2025-04-17 20:14:14 +0000",
       "hyacinth_deeps": "2025-04-17 15:30:13 +0000"
     },
     "done": false
@@ -138,6 +150,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-17 01:53:57 +0000",
+      "minecraft:deep_ocean": "2025-04-17 20:15:03 +0000",
       "minecraft:birch_forest": "2025-04-17 13:59:48 +0000",
       "minecraft:windswept_hills": "2025-04-17 01:51:39 +0000",
       "minecraft:beach": "2025-04-17 15:42:53 +0000",
@@ -155,6 +168,7 @@
       "minecraft:frozen_ocean": "2025-04-17 15:25:36 +0000",
       "minecraft:windswept_forest": "2025-04-17 13:58:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-17 15:25:45 +0000",
+      "minecraft:ocean": "2025-04-17 20:15:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 18:16:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:42:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-17 01:51:38 +0000",
@@ -356,13 +370,15 @@
       "minecraft:evoker": "2025-04-17 15:31:30 +0000",
       "minecraft:slime": "2025-04-17 18:58:46 +0000",
       "minecraft:phantom": "2025-04-17 19:06:46 +0000",
+      "minecraft:zombified_piglin": "2025-04-17 19:47:09 +0000",
       "minecraft:wither_skeleton": "2025-04-17 02:17:38 +0000",
       "minecraft:cave_spider": "2025-04-17 02:16:39 +0000",
       "minecraft:piglin": "2025-04-17 18:36:31 +0000",
       "minecraft:enderman": "2025-04-17 14:14:50 +0000",
       "minecraft:silverfish": "2025-04-17 16:29:05 +0000",
       "minecraft:vex": "2025-04-17 18:53:38 +0000",
-      "minecraft:zombie": "2025-04-17 02:31:46 +0000"
+      "minecraft:zombie": "2025-04-17 02:31:46 +0000",
+      "quark:foxhound": "2025-04-17 19:47:01 +0000"
     },
     "done": false
   },
@@ -511,121 +527,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 19:27:25 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-17 18:29:09 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_hamlet": {
-    "criteria": {
-      "nova_structures:hamlet": "2025-04-17 18:50:40 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-04-17 18:54:27 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-04-17 19:23:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:treasure": "2025-04-17 18:58:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/slime_poison": {
-    "criteria": {
-      "poison": "2025-04-17 18:58:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-04-17 18:45:36 +0000",
-      "minecraft:nether_wastes": "2025-04-17 19:27:20 +0000",
-      "minecraft:soul_sand_valley": "2025-04-17 18:33:51 +0000",
-      "minecraft:basalt_deltas": "2025-04-17 18:34:01 +0000",
-      "minecraft:warped_forest": "2025-04-17 19:25:51 +0000"
     },
     "done": true
   },
@@ -641,43 +545,11 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
-    "criteria": {
-      "requirement": "2025-04-17 19:17:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:weeping_valley": "2025-04-17 18:33:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/mystic_wisdom": {
-    "criteria": {
-      "treasure": "2025-04-17 18:58:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-17 18:30:31 +0000"
     },
     "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-04-17 18:45:24 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglins": {
-    "criteria": {
-      "nova_structures:piglin_outstation": "2025-04-17 18:35:50 +0000",
-      "nova_structures:piglin_camp": "2025-04-17 18:47:51 +0000",
-      "nova_structures:hamlet": "2025-04-17 18:50:40 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
@@ -689,45 +561,9 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-04-17 19:27:49 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_nether": "2025-04-17 18:39:01 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2025-04-17 18:31:26 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
-    "criteria": {
-      "requirement": "2025-04-17 19:09:11 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglin_outpost": {
-    "criteria": {
-      "nova_structures:piglin_outstation": "2025-04-17 18:35:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/root": {
-    "criteria": {
-      "requirement": "2025-04-17 19:07:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-04-17 18:45:55 +0000"
     },
     "done": true
   },
@@ -736,6 +572,18 @@
       "minecraft:fortress": "2025-04-17 18:33:12 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-17 18:33:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-17 18:33:44 +0000"
+    },
+    "done": true
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
@@ -748,9 +596,111 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-17 18:45:36 +0000",
+      "minecraft:nether_wastes": "2025-04-17 19:27:20 +0000",
+      "minecraft:soul_sand_valley": "2025-04-17 18:33:51 +0000",
+      "minecraft:basalt_deltas": "2025-04-17 18:34:01 +0000",
+      "minecraft:warped_forest": "2025-04-17 19:25:51 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2025-04-17 18:35:50 +0000",
+      "nova_structures:piglin_camp": "2025-04-17 18:47:51 +0000",
+      "nova_structures:hamlet": "2025-04-17 18:50:40 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_piglin_outpost": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2025-04-17 18:35:50 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-04-17 18:39:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-04-17 18:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-17 18:45:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-04-17 18:50:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-17 18:54:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-04-17 18:58:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "treasure": "2025-04-17 18:58:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-04-17 18:58:45 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-04-17 19:00:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-17 19:07:09 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/kill_sentry": {
     "criteria": {
       "requirement": "2025-04-17 19:08:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-17 19:09:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-04-17 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-04-17 19:23:51 +0000"
     },
     "done": true
   },
@@ -766,15 +716,130 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "fortress": "2025-04-17 18:33:12 +0000"
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-17 20:17:55 +0000",
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
     },
     "done": true
   },
-  "repurposed_structures:ruins": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "in_ruins_nether": "2025-04-17 19:00:52 +0000"
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:17:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-04-17 19:27:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-17 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-17 19:45:39 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-04-17 19:44:34 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-17 19:51:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-04-17 19:59:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-04-17 19:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-17 20:01:35 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_nether": "2025-04-17 19:37:11 +0000"
     },
     "done": false
   },
