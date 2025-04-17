@@ -17,57 +17,57 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 01:26:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-17 01:28:27 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2025-04-17 02:11:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2025-04-17 02:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-17 02:01:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2025-04-17 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
     },
     "done": false
   },
@@ -76,18 +76,6 @@
       "log_spam_fixer": "2025-04-17 01:26:48 +0000"
     },
     "done": false
-  },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2025-04-17 01:29:53 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
@@ -99,96 +87,6 @@
     },
     "done": false
   },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-04-17 02:18:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-17 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/rose_gold_dust": {
-    "criteria": {
-      "has_item": "2025-04-17 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "nordic_structures:tyfingroathswearadvancement": {
-    "criteria": {
-      "tyfingroathswearadvancement_0": "2025-04-17 01:40:06 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2025-04-17 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-17 01:30:09 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-04-17 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-04-17 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-17 02:41:18 +0000"
-    },
-    "done": true
-  },
-  "quark:overlevel_enchant": {
-    "criteria": {
-      "overlevel_enchant": "2025-04-17 01:31:43 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
@@ -199,44 +97,9 @@
     },
     "done": false
   },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 01:26:48 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2025-04-17 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-17 02:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-17 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-04-17 02:18:59 +0000",
-      "minecraft:spider": "2025-04-17 02:16:13 +0000",
-      "minecraft:creeper": "2025-04-17 02:29:32 +0000",
-      "minecraft:wither_skeleton": "2025-04-17 02:17:38 +0000",
-      "minecraft:cave_spider": "2025-04-17 02:16:39 +0000",
-      "minecraft:zombie": "2025-04-17 02:31:46 +0000"
     },
     "done": false
   },
@@ -246,35 +109,17 @@
     },
     "done": true
   },
-  "mca:recipes/building_blocks/headstones": {
+  "incendium:technical/using/shield": {
     "criteria": {
-      "has_the_cross_recipe": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2025-04-17 02:16:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-17 01:26:48 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-04-17 01:26:48 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -293,17 +138,59 @@
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
+      "lava_bucket": "2025-04-17 01:28:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "evilcraft:first_age": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
+      "criteria_0": "2025-04-17 01:28:29 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-04-17 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-17 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 01:30:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
   },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
@@ -311,9 +198,69 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "bestiary": "2025-04-17 02:02:21 +0000"
+      "has_item": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-17 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-17 01:30:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-17 01:30:17 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2025-04-17 01:30:33 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-04-17 01:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-17 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "nordic_structures:tyfingroathswearadvancement": {
+    "criteria": {
+      "tyfingroathswearadvancement_0": "2025-04-17 01:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 01:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-04-17 01:52:19 +0000"
     },
     "done": true
   },
@@ -330,93 +277,74 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "killed_ice_dragon": "2025-04-17 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 01:26:48 +0000"
+      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
     },
     "done": false
   },
-  "ad_astra:rocket_science": {
+  "dungeons_enhanced:root": {
     "criteria": {
-      "has_nasa_workbench": "2025-04-17 01:30:33 +0000"
+      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "consumed_item": "2025-04-17 01:51:28 +0000"
+      "tamed_animal": "2025-04-17 02:01:12 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
+      "bestiary": "2025-04-17 02:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-17 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-17 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-17 02:18:59 +0000",
+      "minecraft:spider": "2025-04-17 02:16:13 +0000",
+      "minecraft:creeper": "2025-04-17 02:29:32 +0000",
+      "minecraft:wither_skeleton": "2025-04-17 02:17:38 +0000",
+      "minecraft:cave_spider": "2025-04-17 02:16:39 +0000",
+      "minecraft:zombie": "2025-04-17 02:31:46 +0000"
     },
     "done": false
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "diamond": "2025-04-17 01:30:02 +0000"
+      "minecraft:spider": "2025-04-17 02:16:13 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "enemyexpansion:hunted": {
     "criteria": {
-      "bestiary": "2025-04-17 01:30:17 +0000"
+      "hunted_0": "2025-04-17 02:18:24 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "mca:recipes/misc/family_tree": {
     "criteria": {
-      "custom_test_name": "2025-04-17 01:26:47 +0000"
+      "has_item": "2025-04-17 02:39:27 +0000"
     },
     "done": true
   },
-  "mythicmounts:summoning_staff": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_the_recipe": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-04-17 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-04-17 01:26:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-04-17 01:26:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 02:57:25 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-04-17 01:30:16 +0000"
+      "diamond_chestplate": "2025-04-17 02:41:18 +0000"
     },
     "done": true
   },
