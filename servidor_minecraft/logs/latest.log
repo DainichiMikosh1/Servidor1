@@ -829,3 +829,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 13:38:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Voluntary Exile]
 [17Apr2025 13:41:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [17Apr2025 13:41:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 13:50:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Gave 1 [Chorus Fruit] to Armando]
+[17Apr2025 13:50:17.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Gave 1 [Chorus Fruit] to Armando]
+[17Apr2025 13:52:52.992] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13b83a33[id=<null>,name=SANGRES20,properties={},legacy=false] (/100.87.173.85:53761) lost connection: Disconnected
+[17Apr2025 13:53:07.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SANGRES20[/100.87.173.85:53777] logged in with entity id 14272 at (234.20524759626142, 84.0, -1034.315112503509)
+[17Apr2025 13:53:07.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 joined the game
