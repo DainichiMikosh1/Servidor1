@@ -14677,3 +14677,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Apr2025 01:56:09.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of SANGRES20) moved wrongly! 0.7179396533102818
 [17Apr2025 01:56:25.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [17Apr2025 01:56:25.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:01:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Best Friends Forever]
+[17Apr2025 02:01:23.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[17Apr2025 02:01:25.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:01:25.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[17Apr2025 02:01:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[17Apr2025 02:02:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Dragon Growth Hormone]
+[17Apr2025 02:02:58.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[17Apr2025 02:04:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Sweet Dreams]
+[17Apr2025 02:06:25.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[17Apr2025 02:06:25.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD

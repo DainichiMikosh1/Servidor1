@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 02:01:12 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-04-17 01:30:03 +0000"
@@ -131,6 +137,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-17 01:26:48 +0000"
@@ -140,6 +152,12 @@
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "sword": "2025-04-17 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-17 02:04:06 +0000"
     },
     "done": true
   },
@@ -158,6 +176,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_cross_recipe": "2025-04-17 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-17 01:58:23 +0000"
     },
     "done": true
   },
@@ -186,6 +210,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-04-17 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-17 02:02:21 +0000"
     },
     "done": true
   },
