@@ -172,6 +172,7 @@
       "minecraft:deep_frozen_ocean": "2025-04-17 15:25:45 +0000",
       "minecraft:ocean": "2025-04-17 20:15:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 18:16:22 +0000",
+      "minecraft:windswept_savanna": "2025-04-19 12:22:17 +0000",
       "minecraft:flower_forest": "2025-04-19 11:38:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:42:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-17 01:51:38 +0000",
@@ -322,6 +323,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_elders_temple": "2025-04-17 15:33:13 +0000",
+      "entered_fishing_ship": "2025-04-19 12:05:34 +0000",
       "entered_druid_circle": "2025-04-17 14:59:20 +0000",
       "entered_dungeon_variant": "2025-04-17 14:17:29 +0000",
       "entered_ruined_building": "2025-04-17 01:58:23 +0000"
@@ -786,6 +788,139 @@
       "ex": "2025-04-19 11:29:10 +0000"
     },
     "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-19 11:57:12 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-04-19 11:58:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-19 12:01:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-19 12:01:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-04-19 12:09:50 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-04-19 12:19:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-04-19 12:19:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-04-19 12:20:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-04-19 12:20:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-04-19 12:20:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-19 12:24:10 +0000",
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 12:24:02 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
