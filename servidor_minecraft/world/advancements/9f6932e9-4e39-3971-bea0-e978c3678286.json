@@ -103,6 +103,7 @@
       "temperate_grove": "2025-04-15 14:25:59 +0000",
       "gravel_beach": "2025-04-14 16:14:55 +0000",
       "redwoods": "2025-04-15 14:59:30 +0000",
+      "hyacinth_deeps": "2025-04-19 15:13:36 +0000",
       "lupine_plains": "2025-04-15 14:29:40 +0000"
     },
     "done": false
@@ -126,6 +127,7 @@
       "temperate_grove": "2025-04-15 14:25:59 +0000",
       "gravel_beach": "2025-04-14 16:14:55 +0000",
       "redwoods": "2025-04-15 14:59:30 +0000",
+      "hyacinth_deeps": "2025-04-19 15:13:36 +0000",
       "lupine_plains": "2025-04-15 14:29:40 +0000"
     },
     "done": false
@@ -174,7 +176,9 @@
       "minecraft:cold_ocean": "2025-04-12 18:38:55 +0000",
       "minecraft:forest": "2025-04-12 17:00:38 +0000",
       "minecraft:deep_cold_ocean": "2025-04-12 18:42:18 +0000",
+      "minecraft:frozen_ocean": "2025-04-19 15:06:38 +0000",
       "minecraft:windswept_forest": "2025-04-12 17:05:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-19 15:13:34 +0000",
       "minecraft:ocean": "2025-04-12 18:53:31 +0000",
       "minecraft:jungle": "2025-04-16 20:40:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-16 20:02:03 +0000",
@@ -250,7 +254,8 @@
       "minecraft:stray": "2025-04-15 14:47:14 +0000",
       "minecraft:vex": "2025-04-15 17:19:36 +0000",
       "minecraft:zombie": "2025-04-12 17:19:48 +0000",
-      "quark:foxhound": "2025-04-17 18:46:37 +0000"
+      "quark:foxhound": "2025-04-17 18:46:37 +0000",
+      "minecraft:drowned": "2025-04-19 15:19:19 +0000"
     },
     "done": false
   },
@@ -997,93 +1002,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 20:12:12 +0000"
-    },
-    "done": false
-  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-17 19:27:52 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "repurposed_structures:ancient_cities": {
     "criteria": {
-      "killed": "2025-04-17 20:00:49 +0000"
+      "in_ancient_city_nether": "2025-04-17 19:37:13 +0000"
     },
-    "done": true
+    "done": false
   },
-  "cataclysm:kill_revenant": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "endergolem": "2025-04-17 19:53:53 +0000"
+      "bastion": "2025-04-17 19:50:45 +0000"
     },
     "done": true
   },
@@ -1093,9 +1026,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "cataclysm:kill_revenant": {
     "criteria": {
-      "bastion": "2025-04-17 19:50:45 +0000"
+      "endergolem": "2025-04-17 19:53:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-17 20:00:49 +0000"
     },
     "done": true
   },
@@ -1105,11 +1044,29 @@
     },
     "done": true
   },
-  "repurposed_structures:ancient_cities": {
+  "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
-      "in_ancient_city_nether": "2025-04-17 19:37:13 +0000"
+      "all_effects": "2025-04-19 15:06:08 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-04-19 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-19 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-19 14:50:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
