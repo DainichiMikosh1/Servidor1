@@ -842,3 +842,46 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [20Apr2025 13:29:32.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SANGRES20[/100.87.173.85:64440] logged in with entity id 15817 at (623.3000000119209, 66.0, -1355.699999988079)
 [20Apr2025 13:29:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 joined the game
 [20Apr2025 13:30:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[20Apr2025 13:40:16.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=541, y=65, z=-786} BlockPos{x=541, y=63, z=-787}
+[20Apr2025 13:40:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Herc was on a Roll!]
+[20Apr2025 13:47:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was shot by Armando
+[20Apr2025 13:47:06.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[20Apr2025 13:47:15.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was shot by Armando
+[20Apr2025 13:47:18.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[20Apr2025 13:52:40.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=516, y=171, z=325} BlockPos{x=517, y=254, z=271}
+[20Apr2025 13:54:10.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:11.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:12.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:13.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:14.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:14.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:14.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:14.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 13:54:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [The Desert Swimmers]

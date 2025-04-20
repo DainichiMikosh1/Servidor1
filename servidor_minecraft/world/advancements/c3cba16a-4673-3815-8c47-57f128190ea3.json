@@ -99,12 +99,14 @@
       "flower_fields": "2025-04-19 12:57:20 +0000",
       "highland_fields": "2025-04-19 12:36:30 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "magnolia_highlands": "2025-04-20 13:43:47 +0000",
       "sparse_redwoods": "2025-04-20 02:12:03 +0000",
       "mountains": "2025-04-20 13:15:45 +0000",
       "deciduous_forest": "2025-04-19 12:34:37 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
       "glistering_meadow": "2025-04-17 18:31:43 +0000",
       "blackstone_basin": "2025-04-17 18:35:42 +0000",
+      "towering_cliffs": "2025-04-20 13:41:03 +0000",
       "chalk_cliffs": "2025-04-17 20:17:24 +0000",
       "infernal_holt": "2025-04-17 18:30:34 +0000",
       "bamboo_forest": "2025-04-19 12:42:03 +0000",
@@ -139,10 +141,12 @@
       "flower_fields": "2025-04-19 12:57:20 +0000",
       "highland_fields": "2025-04-19 12:36:30 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "magnolia_highlands": "2025-04-20 13:43:47 +0000",
       "sparse_redwoods": "2025-04-20 02:12:03 +0000",
       "mountains": "2025-04-20 13:15:45 +0000",
       "deciduous_forest": "2025-04-19 12:34:37 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
+      "towering_cliffs": "2025-04-20 13:41:03 +0000",
       "chalk_cliffs": "2025-04-17 20:17:24 +0000",
       "bamboo_forest": "2025-04-19 12:42:03 +0000",
       "cold_boreal_taiga": "2025-04-17 01:54:02 +0000",
@@ -472,6 +476,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-04-17 18:16:54 +0000",
+      "swamp_hut": "2025-04-20 13:39:45 +0000",
       "illager_camp": "2025-04-17 13:28:58 +0000"
     },
     "done": false
@@ -1011,6 +1016,18 @@
   "create:track_0": {
     "criteria": {
       "0": "2025-04-20 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 13:40:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-20 13:41:32 +0000"
     },
     "done": true
   },
