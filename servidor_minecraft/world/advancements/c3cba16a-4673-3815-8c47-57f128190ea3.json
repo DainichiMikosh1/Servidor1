@@ -99,6 +99,7 @@
       "flower_fields": "2025-04-19 12:57:20 +0000",
       "highland_fields": "2025-04-19 12:36:30 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "sparse_redwoods": "2025-04-20 02:12:03 +0000",
       "deciduous_forest": "2025-04-19 12:34:37 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
       "glistering_meadow": "2025-04-17 18:31:43 +0000",
@@ -136,6 +137,7 @@
       "flower_fields": "2025-04-19 12:57:20 +0000",
       "highland_fields": "2025-04-19 12:36:30 +0000",
       "maple_forest": "2025-04-17 01:26:48 +0000",
+      "sparse_redwoods": "2025-04-20 02:12:03 +0000",
       "deciduous_forest": "2025-04-19 12:34:37 +0000",
       "boreal_forest": "2025-04-17 02:11:56 +0000",
       "chalk_cliffs": "2025-04-17 20:17:24 +0000",
@@ -183,9 +185,11 @@
       "minecraft:birch_forest": "2025-04-17 13:59:48 +0000",
       "minecraft:windswept_hills": "2025-04-17 01:51:39 +0000",
       "minecraft:wooded_badlands": "2025-04-19 13:57:40 +0000",
+      "minecraft:bamboo_jungle": "2025-04-20 02:12:33 +0000",
       "minecraft:badlands": "2025-04-19 13:57:55 +0000",
       "minecraft:beach": "2025-04-17 15:42:53 +0000",
       "minecraft:dark_forest": "2025-04-17 01:37:09 +0000",
+      "minecraft:stony_peaks": "2025-04-20 02:10:56 +0000",
       "minecraft:sparse_jungle": "2025-04-19 12:37:02 +0000",
       "minecraft:river": "2025-04-17 13:59:44 +0000",
       "minecraft:lukewarm_ocean": "2025-04-19 13:39:58 +0000",
@@ -361,6 +365,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-20 02:06:29 +0000",
       "entered_pillager_camp": "2025-04-19 13:00:20 +0000",
       "entered_elders_temple": "2025-04-17 15:33:13 +0000",
       "entered_fishing_ship": "2025-04-19 12:05:34 +0000",
@@ -994,7 +999,80 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_ocean": "2025-04-19 15:14:10 +0000"
+      "in_village_ocean": "2025-04-19 15:14:10 +0000",
+      "in_village_oak": "2025-04-20 02:04:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 02:12:46 +0000"
     },
     "done": false
   },
