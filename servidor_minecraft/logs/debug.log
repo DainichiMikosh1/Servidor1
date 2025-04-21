@@ -10375,3 +10375,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 17:09:31.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
 [21Apr2025 17:14:31.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [21Apr2025 17:14:31.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 17:19:30.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 17:19:31.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 17:24:30.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 17:24:31.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 17:27:33.881] [Server thread/DEBUG] [mixin/]: Mixing ProjectileUtilMixin from immersive_aircraft.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[21Apr2025 17:27:33.883] [Server thread/DEBUG] [mixin/]: Mixing ProjectileUtilMixin from create.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[21Apr2025 17:27:37.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Lunarian['Lunarian Weaponsmith'/345, l='ServerLevel[XD]', x=213.54, y=101.00, z=-778.56] died, message: 'Lunarian Weaponsmith was pummeled by Ice Spit'
