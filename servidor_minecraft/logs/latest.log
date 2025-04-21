@@ -928,3 +928,12 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 16:01:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
 [21Apr2025 16:01:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando was slain by Valkyrie
 [21Apr2025 16:01:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:05:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
+[21Apr2025 16:05:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 16:06:16.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 16:09:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:10:44.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando was slain by Valkyrie Queen
+[21Apr2025 16:10:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:11:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has reached the goal [Dethroned]
+[21Apr2025 16:11:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has reached the goal [Dethroned]
+[21Apr2025 16:14:08.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Battle Hardened]

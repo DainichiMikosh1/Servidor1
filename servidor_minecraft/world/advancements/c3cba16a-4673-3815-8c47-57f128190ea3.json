@@ -1074,9 +1074,21 @@
     },
     "done": true
   },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-04-21 16:14:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-04-21 15:04:31 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-04-21 16:11:42 +0000"
     },
     "done": true
   },
