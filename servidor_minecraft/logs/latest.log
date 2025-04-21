@@ -852,3 +852,43 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 14:52:16.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
 [21Apr2025 14:52:27.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Vindicator
 [21Apr2025 14:52:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 14:54:47.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Carolina'/4647, l='ServerLevel[XD]', x=1179.50, y=80.25, z=-859.26] died: Carolina burned to death
+[21Apr2025 14:58:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Vindicator
+[21Apr2025 14:58:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:00:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Vex
+[21Apr2025 15:00:45.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:04:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Convergent Evolution...]
+[21Apr2025 15:06:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Hunter's Cabin]
+[21Apr2025 15:09:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:10:34.264] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ancient_factory took 30 ms
+[21Apr2025 15:10:37.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:14:52.435] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ancient_factory took 0 ms
+[21Apr2025 15:15:26.725] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ancient_factory took 0 ms
+[21Apr2025 15:16:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was blown up by Creeper
+[21Apr2025 15:16:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:17:48.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:17:51.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[21Apr2025 15:17:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 15:17:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[21Apr2025 15:18:06.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of SANGRES20) moved wrongly! 0.5
+[21Apr2025 15:18:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:18:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 15:19:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:20:15.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[21Apr2025 15:20:22.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 15:20:36.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Ancient Civilization]
+[21Apr2025 15:20:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Ancient Civilization]
+[21Apr2025 15:21:22.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=-18, z=366} BlockPos{x=468, y=-18, z=367}
+[21Apr2025 15:21:22.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=-18, z=366} BlockPos{x=468, y=-18, z=367}
+[21Apr2025 15:21:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=-18, z=366} BlockPos{x=468, y=-18, z=367}
+[21Apr2025 15:21:22.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=468, y=-18, z=366} BlockPos{x=468, y=-18, z=367}
+[21Apr2025 15:21:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:21:44.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=-19, z=367} BlockPos{x=447, y=-21, z=367}
+[21Apr2025 15:21:45.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=461, y=-19, z=367} BlockPos{x=447, y=-21, z=367}
+[21Apr2025 15:25:28.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Sneak 100]
+[21Apr2025 15:26:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Sneak 100]
+[21Apr2025 15:26:28.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:26:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was obliterated by a sonically-charged shriek
+[21Apr2025 15:26:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:29:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
+[21Apr2025 15:29:37.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]

@@ -92,6 +92,7 @@
       "frozen_tundra": "2025-04-17 01:54:17 +0000",
       "rocky_reef": "2025-04-17 01:38:15 +0000",
       "grassy_beach": "2025-04-17 20:17:27 +0000",
+      "scorching_caves": "2025-04-21 15:16:39 +0000",
       "rocky_meadow": "2025-04-19 12:44:37 +0000",
       "blackwood_taiga": "2025-04-19 13:15:48 +0000",
       "mycotoxic_undergrowth": "2025-04-17 18:34:16 +0000",
@@ -235,6 +236,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-04-19 13:30:48 +0000",
       "minecraft:flower_forest": "2025-04-19 11:38:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:42:45 +0000",
+      "minecraft:deep_dark": "2025-04-21 15:22:06 +0000",
       "minecraft:meadow": "2025-04-19 13:28:39 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-17 01:51:38 +0000",
       "minecraft:savanna": "2025-04-19 11:38:03 +0000",
@@ -499,7 +501,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "prismachasm": "2025-04-17 14:15:41 +0000"
+      "prismachasm": "2025-04-17 14:15:41 +0000",
+      "scorching_caves": "2025-04-21 15:16:39 +0000"
     },
     "done": false
   },
@@ -1065,9 +1068,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-04-21 15:04:31 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-04-21 14:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-21 15:26:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-21 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2025-04-21 15:06:06 +0000"
     },
     "done": true
   },
