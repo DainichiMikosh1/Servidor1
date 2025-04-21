@@ -1153,6 +1153,12 @@
     },
     "done": true
   },
+  "ad_astra:solar_panel": {
+    "criteria": {
+      "has_solar_panel": "2025-04-21 17:54:56 +0000"
+    },
+    "done": true
+  },
   "ad_astra:oxygen_distributor": {
     "criteria": {
       "has_oxygen_distributor": "2025-04-21 17:52:58 +0000"

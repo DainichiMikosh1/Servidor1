@@ -813,3 +813,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 17:54:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [21Apr2025 17:54:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Green Energy]
 [21Apr2025 17:54:58.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 18:03:38.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SANGRES20[/100.87.173.85:57404] logged in with entity id 25489 at (415.6048855091853, 105.0, -1224.951925640419)
+[21Apr2025 18:03:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 joined the game
+[21Apr2025 18:04:12.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 18:06:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
+[21Apr2025 18:06:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 couldn't breathe anymore
+[21Apr2025 18:07:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Creative Mode]
+[21Apr2025 18:08:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]

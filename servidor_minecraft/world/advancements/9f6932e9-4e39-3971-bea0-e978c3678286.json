@@ -1144,39 +1144,9 @@
     },
     "done": true
   },
-  "aether:regen_stone": {
-    "criteria": {
-      "regen_stone": "2025-04-21 16:14:46 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-04-21 16:43:39 +0000"
-    },
-    "done": true
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-04-21 15:56:03 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2025-04-21 16:11:42 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-04-21 14:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-21 15:25:28 +0000"
     },
     "done": true
   },
@@ -1186,15 +1156,9 @@
     },
     "done": true
   },
-  "aether:blue_aercloud": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "blue_aercloud": "2025-04-21 15:56:47 +0000"
-    },
-    "done": true
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_pickaxe": "2025-04-21 16:16:16 +0000"
+      "avoid_vibration": "2025-04-21 15:25:28 +0000"
     },
     "done": true
   },
@@ -1204,9 +1168,45 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-21 15:56:03 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-04-21 15:56:03 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-04-21 15:56:47 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-04-21 16:11:42 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-04-21 16:14:46 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2025-04-21 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-21 16:43:39 +0000"
     },
     "done": true
   },
