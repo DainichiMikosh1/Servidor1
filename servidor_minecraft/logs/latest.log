@@ -794,3 +794,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 16:59:28.371] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
 [21Apr2025 16:59:28.372] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [21Apr2025 16:59:30.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[21Apr2025 17:08:16.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armando[/100.109.138.25:58059] logged in with entity id 271 at (183.541490277085, 102.0, -722.4272377265489)
+[21Apr2025 17:08:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando joined the game

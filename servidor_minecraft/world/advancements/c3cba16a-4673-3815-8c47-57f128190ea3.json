@@ -1069,9 +1069,45 @@
     },
     "done": true
   },
-  "ad_astra:moon_cheese": {
+  "dungeons_arise:find_illager_fort": {
     "criteria": {
-      "has_moon_cheese": "2025-04-21 16:35:41 +0000"
+      "location0": "2025-04-21 14:48:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-04-21 15:04:31 +0000"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2025-04-21 15:06:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-21 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-21 15:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-21 15:41:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-04-21 15:42:24 +0000"
     },
     "done": true
   },
@@ -1081,9 +1117,21 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-04-21 16:11:42 +0000"
+    },
+    "done": true
+  },
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2025-04-21 16:14:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-04-21 16:27:54 +0000"
     },
     "done": true
   },
@@ -1099,57 +1147,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana_slug": {
+  "ad_astra:moon_cheese": {
     "criteria": {
-      "killed": "2025-04-21 15:04:31 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2025-04-21 16:11:42 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_fort": {
-    "criteria": {
-      "location0": "2025-04-21 14:48:53 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-04-21 15:42:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-21 15:26:26 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-04-21 15:20:37 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:astronaut": {
-    "criteria": {
-      "has_astronaut": "2025-04-21 16:27:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-04-21 15:41:36 +0000"
-    },
-    "done": true
-  },
-  "idas:hunters_cabin": {
-    "criteria": {
-      "in_hunters_cabin": "2025-04-21 15:06:06 +0000"
+      "has_moon_cheese": "2025-04-21 16:35:41 +0000"
     },
     "done": true
   },
