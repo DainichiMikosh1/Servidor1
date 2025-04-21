@@ -797,3 +797,9 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 17:08:16.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armando[/100.109.138.25:58059] logged in with entity id 271 at (183.541490277085, 102.0, -722.4272377265489)
 [21Apr2025 17:08:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando joined the game
 [21Apr2025 17:27:37.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Lunarian['Lunarian Weaponsmith'/345, l='ServerLevel[XD]', x=213.54, y=101.00, z=-778.56] died, message: 'Lunarian Weaponsmith was pummeled by Ice Spit'
+[21Apr2025 17:39:17.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! -50.5,72.26406157182839,332.5
+[21Apr2025 17:39:17.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! -50.5,73.26079124899888,332.5
+[21Apr2025 17:39:17.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! -50.5,74.25752092616938,332.5
+[21Apr2025 17:39:17.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! -50.5,75.25425060333987,332.5
+[21Apr2025 17:42:45.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 50.5,0.47076142982325564,-331.5
+[21Apr2025 17:48:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
