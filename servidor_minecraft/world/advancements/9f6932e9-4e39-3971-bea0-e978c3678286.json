@@ -267,6 +267,7 @@
       "minecraft:spider": "2025-04-12 18:22:13 +0000",
       "minecraft:piglin_brute": "2025-04-17 19:44:59 +0000",
       "minecraft:creeper": "2025-04-14 21:43:08 +0000",
+      "minecraft:wither": "2025-04-21 15:42:21 +0000",
       "minecraft:evoker": "2025-04-15 17:20:37 +0000",
       "minecraft:slime": "2025-04-16 19:44:32 +0000",
       "minecraft:phantom": "2025-04-17 18:50:38 +0000",
@@ -1140,6 +1141,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-21 15:56:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-04-21 14:48:42 +0000"
@@ -1155,6 +1162,24 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-04-21 15:20:36 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-04-21 15:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-21 15:41:36 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-21 15:56:03 +0000"
     },
     "done": true
   },

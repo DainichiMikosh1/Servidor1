@@ -10995,3 +10995,54 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 15:29:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
 [21Apr2025 15:29:35.927] [Server thread/DEBUG] [twilightforest/]: Player SANGRES20 (9f6932e9-4e39-3971-bea0-e978c3678286) respawned and received items held in storage
 [21Apr2025 15:29:37.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:34:31.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:34:31.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 15:34:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 230.500000, 84.000000, -1034.500000]
+[21Apr2025 15:35:33.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:39:10.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53313, l='ServerLevel[XD]', x=40.98, y=60.47, z=-41.09] died: Restless Spirit starved to death
+[21Apr2025 15:39:10.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53426, l='ServerLevel[XD]', x=-34.89, y=54.28, z=-13.66] died: Restless Spirit starved to death
+[21Apr2025 15:39:11.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53286, l='ServerLevel[XD]', x=-17.52, y=119.41, z=-97.72] died: Restless Spirit starved to death
+[21Apr2025 15:39:12.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53318, l='ServerLevel[XD]', x=-57.17, y=54.84, z=-45.41] died: Restless Spirit starved to death
+[21Apr2025 15:39:12.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53420, l='ServerLevel[XD]', x=-62.47, y=59.33, z=-71.00] died: Restless Spirit starved to death
+[21Apr2025 15:39:12.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53301, l='ServerLevel[XD]', x=-35.81, y=50.40, z=-52.83] died: Restless Spirit starved to death
+[21Apr2025 15:39:16.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53395, l='ServerLevel[XD]', x=11.89, y=95.30, z=-28.16] died: Restless Spirit starved to death
+[21Apr2025 15:39:16.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53311, l='ServerLevel[XD]', x=32.46, y=119.21, z=-36.73] died: Restless Spirit starved to death
+[21Apr2025 15:39:16.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53334, l='ServerLevel[XD]', x=55.01, y=105.02, z=-92.76] died: Restless Spirit starved to death
+[21Apr2025 15:39:17.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53340, l='ServerLevel[XD]', x=48.90, y=105.78, z=-80.23] died: Restless Spirit starved to death
+[21Apr2025 15:39:17.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53342, l='ServerLevel[XD]', x=58.77, y=100.95, z=-67.34] died: Restless Spirit starved to death
+[21Apr2025 15:39:18.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53372, l='ServerLevel[XD]', x=14.10, y=100.96, z=-69.63] died: Restless Spirit starved to death
+[21Apr2025 15:39:31.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:39:31.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 15:39:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 230.500000, 84.000000, -1034.500000]
+[21Apr2025 15:39:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:41:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:41:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Withering Heights]
+[21Apr2025 15:41:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Withering Heights]
+[21Apr2025 15:42:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 230.500000, 84.000000, -1034.500000]
+[21Apr2025 15:42:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:44:31.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:44:31.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 15:47:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 438.500000, -25.000000, 359.500000]
+[21Apr2025 15:47:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:49:26.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was exterminated by The Harbinger 's laser
+[21Apr2025 15:49:29.794] [Server thread/DEBUG] [twilightforest/]: Player SANGRES20 (9f6932e9-4e39-3971-bea0-e978c3678286) respawned and received items held in storage
+[21Apr2025 15:49:31.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:49:31.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 15:49:31.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:51:44.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was exterminated by The Harbinger 's laser
+[21Apr2025 15:51:46.329] [Server thread/DEBUG] [twilightforest/]: Player SANGRES20 (9f6932e9-4e39-3971-bea0-e978c3678286) respawned and received items held in storage
+[21Apr2025 15:51:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 15:52:08.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has completed the challenge [The Thing of Ancient Civilization]
+[21Apr2025 15:54:19.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 230.500000, 84.000000, -1034.500000]
+[21Apr2025 15:54:31.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:54:31.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 15:54:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:56:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Hostile Paradise]
+[21Apr2025 15:56:47.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [To Infinity and Beyond!]
+[21Apr2025 15:57:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 15:59:31.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 15:59:31.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 16:01:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 16:01:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando was slain by Valkyrie
+[21Apr2025 16:01:31.096] [Server thread/DEBUG] [twilightforest/]: Player Armando (c3cba16a-4673-3815-8c47-57f128190ea3) respawned and received items held in storage
+[21Apr2025 16:01:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]

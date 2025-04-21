@@ -1068,6 +1068,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-21 15:52:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-04-21 15:04:31 +0000"
@@ -1080,6 +1086,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-04-21 15:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-21 15:26:26 +0000"
@@ -1089,6 +1101,12 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-04-21 15:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-21 15:41:36 +0000"
     },
     "done": true
   },
