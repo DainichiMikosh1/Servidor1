@@ -1153,5 +1153,17 @@
     },
     "done": true
   },
+  "ad_astra:oxygen_distributor": {
+    "criteria": {
+      "has_oxygen_distributor": "2025-04-21 17:52:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "has_tier_2_rocket": "2025-04-21 17:49:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

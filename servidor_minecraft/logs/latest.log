@@ -803,3 +803,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 17:39:17.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! -50.5,75.25425060333987,332.5
 [21Apr2025 17:42:45.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 50.5,0.47076142982325564,-331.5
 [21Apr2025 17:48:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[21Apr2025 17:48:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 17:49:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [The Next Step]
+[21Apr2025 17:52:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[21Apr2025 17:52:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Take a Deep Breath]
+[21Apr2025 17:53:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 17:53:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[21Apr2025 17:53:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[21Apr2025 17:54:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[21Apr2025 17:54:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Green Energy]
+[21Apr2025 17:54:58.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
