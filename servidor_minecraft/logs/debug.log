@@ -11063,3 +11063,27 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Apr2025 16:14:08.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Battle Hardened]
 [21Apr2025 16:14:31.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [21Apr2025 16:14:31.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 16:14:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Battle Hardened]
+[21Apr2025 16:16:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has reached the goal [Earning your Wings]
+[21Apr2025 16:17:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:17:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:17:21.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:17:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando fell from a high place
+[21Apr2025 16:17:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 16:17:51.626] [Server thread/DEBUG] [twilightforest/]: Player Armando (c3cba16a-4673-3815-8c47-57f128190ea3) respawned and received items held in storage
+[21Apr2025 16:17:52.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:18:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to SANGRES20]
+[21Apr2025 16:19:31.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 16:19:31.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 16:20:27.558] [Worker-Main-107/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=408, y=48, z=-1737}
+[21Apr2025 16:20:57.486] [Worker-Main-98/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=455, y=60, z=-1913}
+[21Apr2025 16:20:57.951] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=680, y=65, z=-936}
+[21Apr2025 16:20:57.951] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=680, y=66, z=-936}
+[21Apr2025 16:22:04.626] [Worker-Main-98/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=441, y=43, z=-2360}
+[21Apr2025 16:22:08.164] [Worker-Main-107/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=472, y=52, z=-2408}
+[21Apr2025 16:22:08.165] [Worker-Main-107/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=472, y=53, z=-2408}
+[21Apr2025 16:23:24.481] [Worker-Main-107/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-167, y=48, z=-2088}
+[21Apr2025 16:23:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[21Apr2025 16:24:31.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[21Apr2025 16:24:31.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[21Apr2025 16:24:34.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of SANGRES20) moved too quickly! 0.0,-320.38043960545264,0.0
