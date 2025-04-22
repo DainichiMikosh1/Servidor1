@@ -10434,3 +10434,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 03:14:53.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [22Apr2025 03:14:53.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
 [22Apr2025 03:15:55.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [The Final Frontier]
+[22Apr2025 03:19:53.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[22Apr2025 03:19:53.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[22Apr2025 03:24:53.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[22Apr2025 03:24:53.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
