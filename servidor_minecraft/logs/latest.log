@@ -789,3 +789,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 01:40:24.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando joined the game
 [22Apr2025 01:47:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> 182 102
 [22Apr2025 01:48:00.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> -725
+[22Apr2025 01:49:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 189.500000, 102.000000, -724.500000]
+[22Apr2025 01:55:30.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=4, z=-757} BlockPos{x=-6, y=27, z=-829}
+[22Apr2025 01:56:34.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=4, z=-757} BlockPos{x=51, y=-1, z=-870}
