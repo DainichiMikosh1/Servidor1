@@ -874,3 +874,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 22:31:17.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 moved wrongly!
 [22Apr2025 22:31:44.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 moved wrongly!
 [22Apr2025 22:32:32.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 22:32:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 22:33:03.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 22:33:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 22:33:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 22:33:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 22:33:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 22:34:06.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 22:34:39.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 22:34:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 22:37:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
