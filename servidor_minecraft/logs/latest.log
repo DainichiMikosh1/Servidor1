@@ -806,3 +806,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 02:24:40.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 16.5,49.892301863459465,23.5
 [22Apr2025 02:56:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Ice Ice Baby]
 [22Apr2025 03:01:45.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [Cold Stuff]
+[22Apr2025 03:15:55.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has made the advancement [The Final Frontier]
