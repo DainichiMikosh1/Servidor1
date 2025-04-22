@@ -894,3 +894,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 23:08:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [22Apr2025 23:10:16.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
 [22Apr2025 23:10:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 23:30:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 23:30:35.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 23:30:44.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[22Apr2025 23:30:52.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[22Apr2025 23:31:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set the time to 1000]
