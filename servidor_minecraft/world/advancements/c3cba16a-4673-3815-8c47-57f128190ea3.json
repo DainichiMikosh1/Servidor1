@@ -443,6 +443,7 @@
       "minecraft:slime": "2025-04-17 18:58:46 +0000",
       "minecraft:phantom": "2025-04-17 19:06:46 +0000",
       "minecraft:zombified_piglin": "2025-04-17 19:47:09 +0000",
+      "minecraft:witch": "2025-04-22 17:20:41 +0000",
       "minecraft:wither_skeleton": "2025-04-17 02:17:38 +0000",
       "minecraft:husk": "2025-04-19 12:45:35 +0000",
       "minecraft:cave_spider": "2025-04-17 02:16:39 +0000",
@@ -1225,77 +1226,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "takesapillage:bastille": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
+      "in_bastille": "2025-04-22 17:20:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "create:shifting_gears": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
+      "0": "2025-04-22 21:06:16 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 14:14:26 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
