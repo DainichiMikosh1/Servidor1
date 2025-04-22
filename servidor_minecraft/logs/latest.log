@@ -849,3 +849,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 13:10:42.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 39.5,18.26056044361394,-349.5
 [22Apr2025 13:10:42.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 39.5,19.215559723589877,-349.5
 [22Apr2025 13:13:39.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of Armando) moved too quickly! 11.5,77.96641953318749,18.5
+[22Apr2025 13:27:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> 185 102
+[22Apr2025 13:27:39.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> -723
+[22Apr2025 13:27:50.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 185.500000, 102.000000, -722.500000]
