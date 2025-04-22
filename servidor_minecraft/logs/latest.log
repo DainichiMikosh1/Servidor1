@@ -852,3 +852,41 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [22Apr2025 13:27:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> 185 102
 [22Apr2025 13:27:39.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armando> -723
 [22Apr2025 13:27:50.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 185.500000, 102.000000, -722.500000]
+[22Apr2025 14:14:30.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando lost connection: Disconnected
+[22Apr2025 14:14:30.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando left the game
+[22Apr2025 14:15:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Apr2025 14:15:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Apr2025 14:15:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Apr2025 14:15:12.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:overworld
+[22Apr2025 14:15:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:moon_orbit
+[22Apr2025 14:15:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:the_end
+[22Apr2025 14:15:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/twilightforest:twilight_forest
+[22Apr2025 14:15:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:the_nether
+[22Apr2025 14:15:12.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mercury
+[22Apr2025 14:15:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:venus_orbit
+[22Apr2025 14:15:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mercury_orbit
+[22Apr2025 14:15:12.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:venus
+[22Apr2025 14:15:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:moon
+[22Apr2025 14:15:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:glacio_orbit
+[22Apr2025 14:15:12.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/aether:the_aether
+[22Apr2025 14:15:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:glacio
+[22Apr2025 14:15:12.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mars
+[22Apr2025 14:15:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:earth_orbit
+[22Apr2025 14:15:12.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mars_orbit
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[22Apr2025 14:15:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
