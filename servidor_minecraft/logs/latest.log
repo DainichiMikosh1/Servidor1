@@ -16,3 +16,12 @@
 [23Apr2025 00:21:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [23Apr2025 00:23:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
 [23Apr2025 00:23:21.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 00:25:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[23Apr2025 00:33:02.906] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element idas:castle took 2517 ms
+[23Apr2025 00:33:02.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[23Apr2025 00:33:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[23Apr2025 00:33:15.053] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 00:33:15.055] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 00:33:15.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 00:33:15.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 00:33:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 1328.500000, 101.000000, 5216.500000]
