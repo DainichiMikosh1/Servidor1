@@ -847,3 +847,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 17:41:01.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! 12.080957763581637,-3.3939684003986343,9.524173092896376
 [23Apr2025 17:41:01.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! 6.953316251459569,-6.012331097112195,5.48174386067285
 [23Apr2025 17:41:04.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! 2.2451037126294295,0.0,10.92856766937905
+[23Apr2025 17:52:28.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -8.603903451405273,0.0,-7.2537010180381
+[23Apr2025 17:52:28.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -10.122385565630651,0.0,-8.376128738541183
+[23Apr2025 17:52:28.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -11.657830418520945,0.0,-9.481187360109061
+[23Apr2025 17:52:28.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -13.20823640691367,0.0,-10.57092643641613
+[23Apr2025 17:52:28.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -14.771838116819566,0.0,-11.647153673803132
+[23Apr2025 17:52:28.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -16.347078453100067,0.0,-12.711463469262526
+[23Apr2025 17:52:28.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of SANGRES20) moved too quickly! -10.827930590657502,0.0,-7.653681639342494
