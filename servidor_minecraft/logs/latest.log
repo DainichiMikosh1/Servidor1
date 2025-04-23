@@ -842,3 +842,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 18:39:18.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armando[/100.109.138.25:64580] logged in with entity id 1562 at (234.33305740315464, 77.0, -1032.2956300078667)
 [23Apr2025 18:39:18.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando joined the game
 [23Apr2025 18:47:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 18:48:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[23Apr2025 18:49:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 18:49:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
