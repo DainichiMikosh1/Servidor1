@@ -906,3 +906,14 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 13:44:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [23Apr2025 13:44:20.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
 [23Apr2025 13:45:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has reached the goal [Workout Session]
+[23Apr2025 14:06:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to 230.500000, 89.000000, 3456.500000]
+[23Apr2025 14:06:17.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5536ms or 110 ticks behind
+[23Apr2025 14:06:17.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -0.22050109841711674,-10.806526110009003,-0.4889883062355693
+[23Apr2025 14:06:28.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Creative Mode]
+[23Apr2025 14:06:38.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Spectator Mode]
+[23Apr2025 14:06:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Set own game mode to Survival Mode]
+[23Apr2025 14:06:59.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ensio'/47365, l='ServerLevel[XD]', x=243.38, y=138.00, z=3472.09] died, message: 'Ensio hit the ground too hard'
+[23Apr2025 14:07:05.718] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 14:07:26.529] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=417, y=-10, z=3295}
+[23Apr2025 14:08:55.525] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Apr2025 14:09:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has made the advancement [Mine? Mine? Mine?]

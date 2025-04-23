@@ -118,6 +118,7 @@
       "redwoods": "2025-04-15 14:59:30 +0000",
       "hyacinth_deeps": "2025-04-19 15:13:36 +0000",
       "rainforest": "2025-04-20 14:19:57 +0000",
+      "bioshroom_caves": "2025-04-23 14:06:17 +0000",
       "lupine_plains": "2025-04-15 14:29:40 +0000"
     },
     "done": false
@@ -923,7 +924,8 @@
     "criteria": {
       "redstone_caves": "2025-04-16 19:59:31 +0000",
       "prismachasm": "2025-04-17 14:16:15 +0000",
-      "scorching_caves": "2025-04-21 15:16:49 +0000"
+      "scorching_caves": "2025-04-21 15:16:49 +0000",
+      "bioshroom_caves": "2025-04-23 14:06:17 +0000"
     },
     "done": false
   },
