@@ -48,3 +48,51 @@
 [23Apr2025 00:54:05.509] [Worker-Main-105/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [23Apr2025 00:54:06.836] [Worker-Main-105/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1661, y=114, z=6914}
 [23Apr2025 00:54:06.837] [Worker-Main-105/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1660, y=114, z=6914}
+[23Apr2025 00:57:11.739] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element idas:snifferhenge took 920 ms
+[23Apr2025 00:57:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 1792.500000, 134.712149, 7392.500000]
+[23Apr2025 00:57:22.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7214ms or 144 ticks behind
+[23Apr2025 00:59:00.815] [Worker-Main-107/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:dread_citadel/dread_citadel5 which is being called from not a SinglePoolElement class
+[23Apr2025 00:59:00.815] [Worker-Main-107/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:dread_citadel/dread_citadel12 which is being called from not a SinglePoolElement class
+[23Apr2025 00:59:00.816] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element idas:iceandfire/dread_citadel took 1674 ms
+[23Apr2025 00:59:14.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 3200.500000, 72.465801, 3840.500000]
+[23Apr2025 00:59:14.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9582ms or 191 ticks behind
+[23Apr2025 00:59:30.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has completed the challenge [Dread Citadel]
+[23Apr2025 00:59:57.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -9.307542546768218,-3.0409013432345517,-2.1764183651544045
+[23Apr2025 00:59:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 00:59:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 00:59:57.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando lost connection: Server closed
+[23Apr2025 00:59:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando left the game
+[23Apr2025 00:59:57.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 00:59:58.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:overworld
+[23Apr2025 01:00:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:venus
+[23Apr2025 01:00:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mars
+[23Apr2025 01:00:01.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:moon
+[23Apr2025 01:00:01.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mercury
+[23Apr2025 01:00:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:glacio
+[23Apr2025 01:00:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/aether:the_aether
+[23Apr2025 01:00:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:moon_orbit
+[23Apr2025 01:00:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:the_nether
+[23Apr2025 01:00:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/minecraft:the_end
+[23Apr2025 01:00:01.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/twilightforest:twilight_forest
+[23Apr2025 01:00:01.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mars_orbit
+[23Apr2025 01:00:01.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:mercury_orbit
+[23Apr2025 01:00:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:glacio_orbit
+[23Apr2025 01:00:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:venus_orbit
+[23Apr2025 01:00:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[XD]'/ad_astra:earth_orbit
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[23Apr2025 01:00:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[23Apr2025 01:00:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[23Apr2025 01:00:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
