@@ -10721,3 +10721,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 19:30:10.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
 [23Apr2025 19:35:10.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
 [23Apr2025 19:35:10.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[23Apr2025 19:40:10.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[23Apr2025 19:40:10.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[23Apr2025 19:45:10.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[23Apr2025 19:45:10.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[23Apr2025 19:46:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
