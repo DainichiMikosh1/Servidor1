@@ -845,3 +845,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 18:48:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
 [23Apr2025 18:49:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
 [23Apr2025 18:49:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[23Apr2025 19:00:53.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SANGRES20 lost connection: Disconnected
+[23Apr2025 19:00:53.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 left the game
+[23Apr2025 19:07:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
