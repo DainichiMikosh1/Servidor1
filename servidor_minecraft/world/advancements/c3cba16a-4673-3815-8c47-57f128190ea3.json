@@ -1366,5 +1366,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-23 22:17:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-04-23 22:21:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
