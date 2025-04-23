@@ -817,3 +817,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 11:40:00.313] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23Apr2025 11:40:00.317] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [23Apr2025 11:40:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: The difficulty has been set to Peaceful]
+[23Apr2025 11:48:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set the time to 1000]
+[23Apr2025 11:50:14.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Applied effect Night Vision to Armando]
