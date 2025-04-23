@@ -1235,5 +1235,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-23 14:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-04-23 15:26:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
