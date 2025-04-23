@@ -1996,3 +1996,12 @@ IO-Worker-22:
 [23Apr2025 22:29:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
 [23Apr2025 22:29:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 has completed the challenge [Tinker's Workshop]
 [23Apr2025 22:29:23.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[23Apr2025 22:34:45.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2156, y=113, z=-2104} BlockPos{x=-2156, y=112, z=-2104}
+[23Apr2025 22:35:30.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Renhold'/44085, l='ServerLevel[XD]', x=-2165.30, y=147.00, z=-2148.51] died, message: 'Renhold was slain by Zombie'
+[23Apr2025 22:35:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
+[23Apr2025 22:35:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[23Apr2025 22:36:04.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SANGRES20 was slain by Armando
+[23Apr2025 22:36:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[23Apr2025 22:37:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[23Apr2025 22:39:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SANGRES20: Teleported SANGRES20 to Armando]
+[23Apr2025 22:39:52.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2152, y=103, z=-2135} BlockPos{x=-2151, y=102, z=-2135}
