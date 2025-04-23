@@ -10793,3 +10793,16 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [23Apr2025 00:12:53.829] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
 [23Apr2025 00:12:54.598] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [23Apr2025 00:12:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 00:14:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set the time to 1000]
+[23Apr2025 00:16:56.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[23Apr2025 00:16:56.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[23Apr2025 00:18:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[23Apr2025 00:20:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 00:21:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[23Apr2025 00:21:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 00:21:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Spectator Mode]
+[23Apr2025 00:21:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
+[23Apr2025 00:21:56.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save XD
+[23Apr2025 00:21:56.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete XD
+[23Apr2025 00:23:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Survival Mode]
+[23Apr2025 00:23:21.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Set own game mode to Creative Mode]
