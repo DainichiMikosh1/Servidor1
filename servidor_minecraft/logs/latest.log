@@ -25,3 +25,26 @@
 [23Apr2025 00:33:15.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [23Apr2025 00:33:15.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [23Apr2025 00:33:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 1328.500000, 101.000000, 5216.500000]
+[23Apr2025 00:53:20.236] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element idas:tinkers_citadel took 897 ms
+[23Apr2025 00:53:27.001] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.015] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.016] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.019] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.023] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.023] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.024] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.024] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.031] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.036] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:27.036] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 00:53:30.099] [Worker-Main-105/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[23Apr2025 00:53:30.101] [Worker-Main-105/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[23Apr2025 00:53:30.101] [Worker-Main-105/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[23Apr2025 00:53:30.101] [Worker-Main-105/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[23Apr2025 00:53:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Teleported Armando to 1600.500000, 90.130668, 6768.500000]
+[23Apr2025 00:53:32.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6420ms or 128 ticks behind
+[23Apr2025 00:53:43.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando moved too quickly! -9.884914257159153,0.0,-3.2424366975947123
+[23Apr2025 00:53:49.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando has completed the challenge [Tinker's Citadel]
+[23Apr2025 00:54:05.509] [Worker-Main-105/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 00:54:06.836] [Worker-Main-105/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1661, y=114, z=6914}
+[23Apr2025 00:54:06.837] [Worker-Main-105/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1660, y=114, z=6914}
